@@ -1,0 +1,11 @@
+requests
+python-dotenv
+google-generativeai
+language-tool-python==2.9.4
+transformers
+sentence-transformers
+torch
+scikit-learn
+pandas
+happytransformer
+streamlit
